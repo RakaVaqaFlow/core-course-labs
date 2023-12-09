@@ -1,4 +1,4 @@
-# Monitoring
+# Logging
 
 ## Logging stack
 
